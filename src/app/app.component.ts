@@ -39,5 +39,3 @@ export class AppComponent {
   }
   title = 'neosoft-project';
 }
-
-//sumit.munot@neosofftech.com
